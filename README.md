@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @literallyNamedSocks
 - 🌱 I’m currently learning C
-- 📫 Where to find me ... in ur dad's cellphone
 
 <!---
 literallyNamedSocks/literallyNamedSocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
